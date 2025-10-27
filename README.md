@@ -12,7 +12,7 @@ answering questions from a bunch of policy documents.
 
 ## 3. Document
 
-1. The policy documents can be found [here](https://github.com/DeepenKumarSahoo/Semantic-Spotter-Project/tree/main/Policy%2BDocuments)
+1. The policy documents can be found [here](https://github.com/Arpita0806/Semantic-Spotter-Project)
 
 ## 4. Approach
 
@@ -122,5 +122,5 @@ The LangChain framework revolves around the following building blocks:
   $ git clone https://github.com/DeepenKumarSahoo/Semantic-Spotter-Project.git
   ```
 - Open
-  the [notebook](https://github.com/DeepenKumarSahoo/Semantic-Spotter-Project/blob/main/Semantic_Spotter_DeepenKumarSahoo.ipynb)
+  the [notebook](https://github.com/Arpita0806/Semantic-Spotter-Project)
   in jupyter and run all cells.
