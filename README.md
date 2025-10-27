@@ -119,7 +119,7 @@ The LangChain framework revolves around the following building blocks:
 
 - Clone the github repository
   ```shell
-  $ git clone https://github.com/DeepenKumarSahoo/Semantic-Spotter-Project.git
+  $ git clone https://github.com/Arpita0806/Semantic-Spotter-Project.git
   ```
 - Open
   the [notebook](https://github.com/Arpita0806/Semantic-Spotter-Project)
